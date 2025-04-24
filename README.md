@@ -59,6 +59,6 @@ Usuários acessam com CPF e senha. Três tipos de usuário são suportados: Alun
 
 ### [Lívia Veríssimo Raissinger](https://www.linkedin.com/in/lnka3358243/)
 ### [Maria Eduarda Dos Santos Pereira Aragão]()
-### [Nathan dos Santos Gomes]()
+### [Nathan dos Santos Gomes](https://www.linkedin.com/in/nathan-gomes-707162270/)
 ### [Nikolas Wintter De Oliveira Schumaker](https://www.linkedin.com/in/nikolas-wintter-2608a8317/)
-### [Rodrigo Schuba Madeira Filho]()
+### [Rodrigo Schuba Madeira Filho](http://www.linkedin.com/in/rodrigo-schuab-628798249)
