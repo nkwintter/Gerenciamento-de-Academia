@@ -1,0 +1,35 @@
+plano,1_MODALIDADE,Acesso a 1 modalidade à escolha,79.9,229.9,839.9
+plano,2_MUSCULACAO,Musculação + 1 modalidade,99.9,289.9,999.9
+plano,3_FUNCIONAL,Funcional + 2 modalidades,119.9,339.9,1199.9
+plano,4_MUSCULACAO_FUNCIONAL,Musculação + Funcional + 2 modalidades,139.9,389.9,1399.9
+plano,TOTAL,Acesso total a todas as modalidades,159.9,429.9,1499.9
+aluno,João Lima,45290062371,senha631,2024-03-30,1_MODALIDADE,MENSAL
+aluno,Ana Silva,51743216324,senha257,2024-02-16,3_FUNCIONAL,TRIMESTRAL
+aluno,Beatriz Pereira,70564466444,senha344,2024-04-16,2_MUSCULACAO,TRIMESTRAL
+aluno,Carlos Oliveira,63048703723,senha698,2023-05-13,TOTAL,ANUAL
+aluno,Pedro Costa,81738984590,senha204,2024-02-17,1_MODALIDADE,MENSAL
+aluno,Juliana Gomes,83189828080,senha200,2023-09-01,1_MODALIDADE,TRIMESTRAL
+aluno,Lucas Pereira,87747339724,senha757,2024-03-16,3_FUNCIONAL,MENSAL
+aluno,Ana Ribeiro,17593435648,senha544,2023-07-07,2_MUSCULACAO,ANUAL
+aluno,Marcos Gomes,79014805143,senha666,2024-03-12,TOTAL,TRIMESTRAL
+aluno,Lucas Lima,66343340026,senha589,2023-01-28,3_FUNCIONAL,TRIMESTRAL
+aluno,João Oliveira,60276067879,senha227,2024-06-12,2_MUSCULACAO,ANUAL
+aluno,Juliana Lima,58979817380,senha709,2023-04-14,4_MUSCULACAO_FUNCIONAL,TRIMESTRAL
+personal,Carlos Almeida,82162087894,senha373,Musculação,23264-G/2
+personal,Lucas Lima,21243742652,senha582,Pilates,85949-G/3
+personal,João Almeida,19694772667,senha577,Pilates,61664-G/4
+personal,Lucas Silva,17164194774,senha932,Pilates,33310-G/8
+personal,Carlos Oliveira,35635740926,senha751,Pilates,54238-G/1
+personal,Maria Gomes,85118828886,senha694,Pilates,13666-G/5
+personal,Maria Costa,32369293164,senha763,Crossfit,30812-G/6
+personal,Juliana Almeida,24638351059,senha271,Musculação,64559-G/3
+personal,Ana Souza,46888623276,senha908,Pilates,90928-G/8
+funcionario,Pedro Almeida,65241601736,senha837,GERENTE
+funcionario,Beatriz Oliveira,36207898794,senha277,ATENDENTE
+funcionario,Ana Ribeiro,23862166255,senha244,ATENDENTE
+funcionario,Ana Lima,93758409920,senha980,GERENTE
+funcionario,Maria Gomes,50263314399,senha350,ATENDENTE
+funcionario,Beatriz Costa,88169893786,senha597,ATENDENTE
+funcionario,Marcos Santos,38546073199,senha964,LIMPEZA
+funcionario,Fernanda Almeida,80904940639,senha469,ATENDENTE
+funcionario,Marcos Almeida,14430018541,senha975,ATENDENTE
