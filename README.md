@@ -50,16 +50,15 @@ Usuários acessam com CPF e senha. Três tipos de usuário são suportados: Alun
 - Relatório de planos
 - Relatório de pessoas (alunos, funcionários e personal trainers)
 - Relatório de avaliações físicas por período
-- Todos os relatórios exportados individualmente em arquivos `.txt`
+- Todos as informações exportadas em um arquivo `.csv`
   
 <br>
 
 ## UML
- 
 
 <div align="center">
   <h3>Diagrama UML - Clique!</h3>
-  <a href="https://github.com/nkwintter/Gerenciamento-de-Academia/blob/332a78e03ba1f881a9baeb4f9e47782e6d07241e/DiagramaUML.pdf" target="_blank"> 
+  <a href="https://github.com/nkwintter/Gerenciamento-de-Academia/blob/4075e5e6d77d0f4c1dc4b2a444843e0d35a990f9/GerenciamentoAcademiaUML.PDF" target="_blank"> 
     <img height ="300" width = "300" src="https://github.com/user-attachments/assets/bd4e7b5b-a305-4421-aba9-825fcd025740" alt="Reperesentação Diagrama"/>
   </a>
 </div>
